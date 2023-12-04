@@ -1,0 +1,85 @@
+#projects {
+    background-color: #f0f4f8;
+}
+
+/*** Title start ***/
+.title {
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.title span {
+    color: #2c7ae7;
+    text-transform: uppercase;
+}
+
+.title h1 {
+    font-weight: 700;
+    color: #3b3b44;
+    text-transform: capitalize;
+}
+
+/*** Title end ***/
+
+
+/*** Menu start ***/
+.project-menu {
+    margin: 15px 0;
+    padding: 15px;
+}
+
+.project-menu li {
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.project-menu li a {
+    color: #000;
+}
+
+/*** Menu end ***/
+
+
+/*** Project item start ***/
+.back-content p {
+    margin: 15px 0;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.back-content .info a {
+    font-size: 13px;
+    background-color: #fff;
+    padding: 8px 10px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: #2c7ae7;
+}
+
+/*** Project item end ***/
+
+
+/*** Button start ***/
+.btn {
+    margin: 40px 0;
+}
+
+.btn button {
+    padding: 15px 50px;
+    border: 1px #917cddec solid;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background: linear-gradient(to right, #568ad3 0, #0f58bd 100%);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+}
+
+/*** Button end ***/
