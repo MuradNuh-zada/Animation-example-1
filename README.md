@@ -1,2 +1,2 @@
-# CSS-task-20
-CSS task 20
+# Animation example
+https://css-task-20-animation.vercel.app/
